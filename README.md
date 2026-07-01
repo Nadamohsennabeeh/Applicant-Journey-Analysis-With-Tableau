@@ -1,4 +1,4 @@
-This project analyzes the applicant journey for courses and scholarship programs to understand where potential applicants drop off and why marketing efforts do not always translate into successful enrollments. The dashboard explores the entire funnel, from application to acceptance, to identify opportunities for improving conversion and retention.
+This project analyzes the applicant journey for courses and scholarship program to understand where potential applicants drop off and why marketing efforts do not always translate into successful enrollments. The dashboard explores the entire funnel, from application to acceptance, to identify opportunities for improving conversion and retention.
 
 Why do some marketing campaigns generate a high number of applicants but fail to achieve the expected conversion rate? This project investigates whether the main challenge lies in attracting applicants or in their experience throughout the application process.
 
